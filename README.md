@@ -355,6 +355,14 @@ This project was developed collaboratively as a B.Tech Final Year Major Group Pr
 
 ---
 
+## 📄 License
+
+This project is licensed under the MIT License.  
+You are free to use, modify, and distribute this software in accordance with the license terms.
+
+See the [LICENSE](LICENSE) file for more details.
+
+---
 ## 🏁 Conclusion
 
 CardioSense AI showcases the practical application of supervised machine learning algorithms in a full-stack, clinical-grade setting. By addressing the clinical "black box" challenge through game-theory explanations (SHAP) and offering an intuitive React/FastAPI layout, the project offers a robust framework for automated, transparent, and patient-centered diagnostic support systems.
