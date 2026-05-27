@@ -1,0 +1,10 @@
+venv/
+node_modules/
+__pycache__/
+*.pkl
+*.db
+.env
+dist/
+build/
+.vscode/
+.ipynb_checkpoints/

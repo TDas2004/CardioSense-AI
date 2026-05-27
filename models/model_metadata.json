@@ -1,0 +1,25 @@
+{
+  "best_model": "GradientBoosting",
+  "features": [
+    "age",
+    "sex",
+    "cp",
+    "trestbps",
+    "chol",
+    "fbs",
+    "restecg",
+    "thalach",
+    "exang",
+    "oldpeak",
+    "slope",
+    "ca",
+    "thal"
+  ],
+  "target": "target",
+  "final_auc": 0.9348,
+  "final_accuracy": 0.87,
+  "final_f1": 0.8705,
+  "smote_applied": true,
+  "train_samples": 1107,
+  "test_samples": 277
+}
